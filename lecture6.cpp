@@ -5,9 +5,9 @@
 using namespace std;
 
 int main(){
-    double a=1.0;
+    double a=4.0;
     double b=3.0;
-    double c=2.0;
+    double c=-3.0;
     double d=1.0;
 
     double root1 = QUADRATIC(a, b, c, d);
