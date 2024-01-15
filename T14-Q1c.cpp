@@ -11,8 +11,7 @@ int main (){
 
     if (mark>A){
         cout<<"Congratulations! You get A."<<endl;
-    } else{
+    } else
         cout<<"Sorry! You get F."<<endl;
-    }
     return 0;
 }
